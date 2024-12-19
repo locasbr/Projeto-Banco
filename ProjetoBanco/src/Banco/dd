@@ -1,0 +1,38 @@
+Publico numConta
+
+Protegido tipo de conta: corrente ou poupança.
+
+Privado Dono 
+
+Privado Saldo
+
+Privado Status : aberta ou fechada
+(Se a conta não estiver aberta status é falso e vice-versa)
+
+
+Métodos:
+
+
+AbrirConta
+
+FecharConta
+Se eu quiser fechar conta não posso ter dinheiro
+Eu não posso fechar se eu estou devendo 
+
+
+Depositar
+
+Sacar()
+(Para sacar dinheiro tenho que estar com o status verdadeiro
+
+Tenho que ter saldo para fazer esse saldo)
+
+
+PagarMensal()
+Toda vez que pagar mensalidade for chamada, conta corrente paga 12 reais
+Conta poupança paga 28 reais
+
+
+Se abrir uma conta corrente ganha 50
+
+Se abrir conta poupança 150 reais
